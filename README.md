@@ -59,5 +59,5 @@ Documentation is available by [http://127.0.0.1:8000/docs/](http://127.0.0.1:800
 ### Run tests
 ```sh
 coverage run manage.py test
-covereage report
+coverage report
 ```
