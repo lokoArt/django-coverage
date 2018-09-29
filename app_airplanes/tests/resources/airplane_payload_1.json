@@ -1,0 +1,44 @@
+{
+  "airplanes": [
+    {
+      "id": 100,
+      "passengers_number": 100
+    },
+    {
+      "id": 50,
+      "passengers_number": 75
+    },
+    {
+      "id": 70,
+      "passengers_number": 87
+    },
+    {
+      "id": 98,
+      "passengers_number": 123
+    },
+    {
+      "id": 1000,
+      "passengers_number": 215
+    },
+    {
+      "id": 1111,
+      "passengers_number": 15
+    },
+    {
+      "id": 155,
+      "passengers_number": 31
+    },
+    {
+      "id": 654,
+      "passengers_number": 99
+    },
+    {
+      "id": 12315,
+      "passengers_number": 64
+    },
+    {
+      "id": 8888,
+      "passengers_number": 400
+    }
+  ]
+}

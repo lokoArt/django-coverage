@@ -1,0 +1,52 @@
+[
+  {
+    "id": 100,
+    "fuel_consumption": "1.800",
+    "maximum_duration": 11111
+  },
+  {
+    "id": 50,
+    "fuel_consumption": "1.509",
+    "maximum_duration": 6626
+  },
+  {
+    "id": 70,
+    "fuel_consumption": "1.650",
+    "maximum_duration": 8484
+  },
+  {
+    "id": 98,
+    "fuel_consumption": "1.839",
+    "maximum_duration": 10658
+  },
+  {
+    "id": 1000,
+    "fuel_consumption": "2.830",
+    "maximum_duration": 70671
+  },
+  {
+    "id": 1111,
+    "fuel_consumption": "2.467",
+    "maximum_duration": 90084
+  },
+  {
+    "id": 155,
+    "fuel_consumption": "1.814",
+    "maximum_duration": 17086
+  },
+  {
+    "id": 654,
+    "fuel_consumption": "2.450",
+    "maximum_duration": 53377
+  },
+  {
+    "id": 12315,
+    "fuel_consumption": "3.400",
+    "maximum_duration": 724337
+  },
+  {
+    "id": 8888,
+    "fuel_consumption": "3.959",
+    "maximum_duration": 448997
+  }
+]
